@@ -22,8 +22,8 @@ Property and mortgage platform covering property discovery, mortgage calculation
 ### [Fandum](https://fandum.app)
 Multi-sided fan–talent platform spanning product strategy, user journeys, UI/UX, technical architecture, API/backend requirements, implementation and delivery.
 
-### UNITS
-Property technology platform being built across product strategy, operating model, member/admin workflows, information architecture, UI/UX, technical requirements, implementation and QA.
+### [UNITS](https://joinunits.com)
+Building a digital real estate cooperative that brings people together to access property in smaller, more flexible units, starting from 1 sqm. Leading product development across the cooperative operating model, member and admin workflows, information architecture, UX, technical requirements, implementation and QA.
 
 ## Tools & technologies
 
